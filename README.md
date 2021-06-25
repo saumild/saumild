@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Saumil Dedhia, a Computer Scinece graduate student at University of Southern California'22.
+- 👋 Hi, I’m Saumil Dedhia
 - 🔭 I'm currently working as a Full Stack Engineer with the Information Technology Services at USC.
 - 👀 I’m interested in pursuing internship/ full-time roles as a Software Developer or a Full-Stack Developer.
 - 🌱 I’m currently learning 
